@@ -1,0 +1,7 @@
+# Reproduced Ubuntu 24.04 / Python 3.12 acceptance versions.
+# PySide6 6.12.0 crashed during offline-suite teardown on this host.
+PySide6==6.11.1
+numpy==2.5.0
+pyqtgraph==0.14.0
+pyserial==3.5
+PyInstaller==6.22.3
